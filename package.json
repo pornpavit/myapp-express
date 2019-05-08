@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pornpavit/myapp-express/issues"
   },
-  "homepage": "https://github.com/pornpavit/myapp-express#readme"
+  "homepage": "https://github.com/pornpavit/myapp-express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
